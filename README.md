@@ -1,9 +1,26 @@
 ### Hi there 👋
 
-- Mac电脑软件
-  - [Recommended-software](https://github.com/oliver556/Recommended-software)
-- 文章总结
-  - [Jamison--Article](https://github.com/oliver556/Jamison--Article)
+<details style="cursor: pointer;">
+  <summary>Mac电脑</summary>
+    <div style="width: 98%; margin: 0 auto">
+        <ul>
+          <li>
+            <a href="https://github.com/oliver556/Recommended-software">【Recommended-software】</a>
+          </li>
+        </ul>
+    </div>
+</details>
+
+<details style="cursor: pointer;">
+  <summary>文章总结</summary>
+    <div style="width: 98%; margin: 0 auto">
+        <ul>
+          <li>
+            <a href="https://github.com/oliver556/Jamison--Article">【Jamison--Article】</a>
+          </li>
+        </ul>
+    </div>
+</details>
 
 <!--
 **oliver556/oliver556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
