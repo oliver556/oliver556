@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- [Recommended-software](https://github.com/oliver556/Recommended-software)
+- Mac电脑软件
+  - [Recommended-software](https://github.com/oliver556/Recommended-software)
+- 文章总结
+  - [Jamison--Article](https://github.com/oliver556/Jamison--Article)
 
 <!--
 **oliver556/oliver556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
