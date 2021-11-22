@@ -8,9 +8,9 @@
 
 🔍 Where To Find Me
 
-● ✉️ Email: aligoogle@163.com
+- ✉️ Email: aligoogle@163.com
 
-<details style="cursor: pointer;">
+<!-- <details style="cursor: pointer;">
   <summary>Mac电脑</summary>
     <div style="width: 98%; margin: 0 auto">
         <ul>
@@ -19,9 +19,9 @@
           </li>
         </ul>
     </div>
-</details>
+</details> -->
 
-<details style="cursor: pointer;">
+<!-- <details style="cursor: pointer;">
   <summary>文章总结</summary>
     <div style="width: 98%; margin: 0 auto">
         <ul>
@@ -30,7 +30,7 @@
           </li>
         </ul>
     </div>
-</details>
+</details> -->
 
 <!--
 **oliver556/oliver556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -46,3 +46,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Thank you for the visit.
+
+![](http://profile-counter.glitch.me/oliver556/count.svg)
+
+Please give a Star if you like.
