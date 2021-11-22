@@ -9,6 +9,21 @@
 
 - ✉️ Email: aligoogle@163.com
 
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=oliver556&show_icons=true&show_owner=true&count_private=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=oliver556&theme=github)
+
+
+<details>
+  <summary>More Repositories ...</summary>
+
+  <a href="https://github.com/oliver556/js-tool">
+    <img alt="oliver556" src="https://github-readme-stats.vercel.app/api/pin/?username=oliver556&repo=js-tool&show_owner=true" />
+  </a>
+</details>
+
 <!-- <details style="cursor: pointer;">
   <summary>Mac电脑</summary>
     <div style="width: 98%; margin: 0 auto">
