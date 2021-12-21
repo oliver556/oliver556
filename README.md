@@ -3,9 +3,9 @@
 > 什么都无法舍弃，什么也改变不了
 > —— アルミン・アルレルト（爱尔敏·阿诺德）
 
-🍓 个人博客: https://github.com/oliver556/Jamison--Article
+🍓 ➜ [个人博客](https://github.com/oliver556/Jamison--Article)
 
-🖥 日学笔记: https://github.com/oliver556/DayLearnNote
+🖥 ➜ [日学笔记](https://github.com/oliver556/DayLearnNote)
 
 🔍 Where To Find Me 
 
