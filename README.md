@@ -3,7 +3,7 @@
 > 什么都无法舍弃，什么也改变不了
 > —— アルミン・アルレルト（爱尔敏·阿诺德）
 
-🍓 ➜ [个人博客](https://aligoogle.net)
+🍓 ➜ [个人博客](https://www.aligoogle.net/)
 
 <!-- 🖥 ➜ [日学笔记](https://github.com/oliver556/DayLearnNote) -->
 
