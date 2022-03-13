@@ -3,13 +3,13 @@
 > 什么都无法舍弃，什么也改变不了
 > —— アルミン・アルレルト（爱尔敏·阿诺德）
 
-<a href="https://www.aligoogle.net/" rel="nofollow" target="_blank">个人博客</a>
-
 🍓 ➜ [个人博客](https://www.aligoogle.net/)
 
-<!-- 🖥 ➜ [日学笔记](https://github.com/oliver556/DayLearnNote) -->
+🖥 ➜ [前端业务代码工具库](https://github.com/oliver556/js-tool)
 
-🔍 Where To Find Me 
+🛠 ➜ [CLI 脚手架仓库](https://github.com/oliver556/susu-cli)
+
+🔍 → Where To Find Me 
 
 - ✉️ Email: aligoogle@163.com
 
