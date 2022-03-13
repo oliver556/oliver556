@@ -5,9 +5,9 @@
 
 🍓 ➜ [个人博客](https://www.aligoogle.net/)
 
-🖥 ➜ [前端业务代码工具库](https://github.com/oliver556/js-tool)
+<!-- 🖥 ➜ [前端业务代码工具库](https://github.com/oliver556/js-tool) -->
 
-🛠 ➜ [CLI 脚手架仓库](https://github.com/oliver556/susu-cli)
+<!-- 🛠 ➜ [CLI 脚手架仓库](https://github.com/oliver556/susu-cli) -->
 
 🔍 → Where To Find Me 
 
